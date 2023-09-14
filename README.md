@@ -25,8 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://newsletter-fmio.netlify.app/)
 
 ## My process
 
@@ -40,6 +39,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [bharathsurya021](https://www.your-site.com)
+- Website - [bharathsurya021](https://bharath-surya-c67fc4.netlify.app/)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
