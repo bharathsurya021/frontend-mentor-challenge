@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://newsletter-fmio.netlify.app/)
+- Live Site URL: [newsletter](https://newsletter-fmio.netlify.app/)
 
 ## My process
 
